@@ -76,7 +76,10 @@ Python, Pandas, NumPy, Scikit-learn, LightGBM, XGBoost, NLP (TF-IDF), Matplotlib
 ### Feature Engineering
 ![TF-IDF](images/TF-IDF.png)
 
-### 📉 Insights
-(Add heatmap or analysis plot here)
+### Insights
+![Heatmap](images/Correlation_chart.png)
+
+### Model Result after feature selection and Hyperparameter Tuning
+![Model result]()
 
 ---
