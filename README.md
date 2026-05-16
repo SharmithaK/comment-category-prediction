@@ -71,7 +71,7 @@ Python, Pandas, NumPy, Scikit-learn, LightGBM, XGBoost, NLP (TF-IDF), Matplotlib
 ## Project Visuals
 
 ### Target Distribution
-
+![Target Distribution](images/Target_distribution_chart.png)
 
 ### Feature Engineering
 
