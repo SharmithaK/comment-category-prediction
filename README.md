@@ -80,6 +80,6 @@ Python, Pandas, NumPy, Scikit-learn, LightGBM, XGBoost, NLP (TF-IDF), Matplotlib
 ![Heatmap](images/Correlation_chart.png)
 
 ### Model Result after feature selection and Hyperparameter Tuning
-![Model result]()
+![Model result](images/Model_result.png)
 
 ---
