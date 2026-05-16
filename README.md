@@ -74,7 +74,7 @@ Python, Pandas, NumPy, Scikit-learn, LightGBM, XGBoost, NLP (TF-IDF), Matplotlib
 ![Target Distribution](images/Target_distribution_chart.png)
 
 ### Feature Engineering
-
+![TF-IDF](images/TF-IDF.png)
 
 ### 📉 Insights
 (Add heatmap or analysis plot here)
